@@ -1,0 +1,2 @@
+Name,CinemaName
+Address,CinemaAddress
